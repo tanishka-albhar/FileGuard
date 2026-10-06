@@ -46,3 +46,6 @@ FileGuard/
 │       └── old.txt
 │
 └── README.md
+## 📸 Demo
+
+![FileGuard working](screenshots/Screenshot%202026-10-06%20232728.png)
