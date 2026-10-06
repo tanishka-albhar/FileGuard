@@ -1,0 +1,2 @@
+prinf("hello world");
+return 0;
